@@ -53,3 +53,12 @@ Two types of derivatives are considered:
 ## Usage
 
 All results can be reproduced by running: [Run_final.m](Run_final.m)
+
+## Co-authors
+- Bacchi Leonardo
+- Casciani Alice Sofia
+- Crivellaro Federico
+- Imperatore Gaia
+
+
+*This project was developed for academic purposes as part of the **Computational Finance** course at **Politecnico di Milano (PoliMI)**.
