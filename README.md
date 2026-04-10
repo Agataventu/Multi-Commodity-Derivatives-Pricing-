@@ -52,4 +52,4 @@ Two types of derivatives are considered:
 
 ## Usage
 
-All results can be reproduced by running: [Main script](run_finale.m)
+All results can be reproduced by running: [main](run_finale.m)
